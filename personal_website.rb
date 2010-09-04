@@ -34,7 +34,7 @@ __END__
   Santo André - SP - Brasil
   %br
   %strong Trabalho
-  %a{:href => "http://www.voicetechnology.com.br"}Voice Technology 
+  %a{:href => "http://www.voicetechnology.com.br"}Voice Technology
   %br
   %strong Gosto
   %ul{:class => "noBullet"}
@@ -67,7 +67,7 @@ __END__
       %li --- Refletir
       %li --- Viajar    
   %ul{:class => "noBullet"}
-    %li -- Falar
+    %li -- Conversar
     %ul{:class => "noBullet"}
       %li --- Opinião
       %li --- Sincero
@@ -75,33 +75,46 @@ __END__
     %li -- etc ;)
 #secondaryContent
   %strong +
-  %br
-  %a{:href => "http://www.blogger.com/profile/05395578056067121611", :target=>"blank", :title =>  "Blogger"}
-    %img{:src => "/images/blogger.png"}
-  %br
-  %a{:href => "http://delicious.com/FabricioFFC", :target=>"blank", :title =>  "Delicious"}
-    %img{:src => "/images/delicious.png"}
-  %br
-  %a{:href => "http://www.facebook.com/ffc.fabricio", :target=>"blank", :title =>  "Facebook"}
-    %img{:src => "/images/facebook.png"} 
-  %br
-  %a{:href => "mailto:ffc.fabricio@gmail.com", :target=>"blank", :title =>  "E-mail"}
-    %img{:src => "/images/gmail.png"} 
-  %br
-  %a{:href => "http://www.google.com/profiles/ffc.fabricio", :target=>"blank", :title =>  "Perfil no Google"}
-    %img{:src => "/images/google.png"}
-  %br
-  %a{:href => "http://www.lastfm.com.br/user/FabricioFFC", :target=>"blank", :title =>  "LastFM"}
-    %img{:src => "/images/lastfm.png"}
-  %br
-  %a{:href => "http://br.linkedin.com/in/fabricioferraridecampos", :target=>"blank", :title =>  "LinkedIn"}
-    %img{:src => "/images/linkedin.png"} 
-  %br
-  %a{:href => "http://blog.fabricioferrari.com.br/", :target=>"blank", :title =>  "Blog pessoal - Tumblr"}
-    %img{:src => "/images/tumblr.png"} 
-  %br
-  %a{:href => "http://twitter.com/FabricioFFC", :target=>"blank", :title =>  "Twitter"}
-    %img{:src => "/images/twitter.png"} 
-  %br
-  %a{:href => "http://qualidadebr.wordpress.com", :target=>"blank", :title =>  "QualidadeBR - blog sobre Teste e Qualidade de Software"}
-    %img{:src => "/images/wordpress.png"}     
+  #links
+    %br
+    %a{:href => "mailto:ffc.fabricio@gmail.com", :target=>"blank", :title =>  "E-mail"}
+      Contate-me
+    %br
+    %a{:href => "http://br.linkedin.com/in/fabricioferraridecampos", :target=>"blank", :title =>  "LinkedIn"}
+      LinkedIn - Minhas experiências e perfil profissional
+    %br
+    %a{:href => "http://github.com/FabricioFFC", :target=>"blank", :title =>  "Github"}
+      Projetos no github
+    %br
+    %a{:href => "http://twitter.com/FabricioFFC", :target=>"blank", :title =>  "Twitter"}
+      Twitter
+    %br
+    %a{:href => "http://qualidadebr.wordpress.com", :target=>"blank", :title =>  "QualidadeBR"}
+      QualidadeBR - meu blog focado em Teste e Qualidade de Software
+    %br
+    %a{:href => "http://www.testexpert.com.br/?q=blog/1886", :target=>"blank", :title =>  "TestExpert"}
+      Coluna no TestExpert
+    %br
+    %a{:href => "http://www.slideshare.net/FabricioFFC", :target=>"blank", :title =>  "Slideshare"}
+      Minhas apresentações no Slideshare
+    %br
+    %a{:href => "http://delicious.com/FabricioFFC", :target=>"blank", :title =>  "Delicious"}
+      Bookmarks no Delicious
+    %br
+    %a{:href => "http://www.facebook.com/ffc.fabricio", :target=>"blank", :title =>  "Facebook"}
+      Página do Facebook
+    %br
+    %a{:href => "http://www.google.com/profiles/ffc.fabricio", :target=>"blank", :title =>  "Google"}
+      Perfil no Google
+    %br
+    %a{:href => "http://blog.fabricioferrari.com.br/", :target=>"blank", :title =>  "Tumblr"}
+      Blog pessoal
+    %br
+    %a{:href => "http://www.lastfm.com.br/user/FabricioFFC", :target=>"blank", :title =>  "LastFM"}
+      O que gosto de escutar
+    %br
+    %a{:href => "http://www.google.com/reader/shared/ffc.fabricio", :target=>"blank", :title =>  "Google Reader"}
+      O que li na internet
+    %br
+    %a{:href => "http://moovee.me/user/FabricioFFC", :target=>"blank", :title =>  "Moovee"}
+      Filmes que assisti

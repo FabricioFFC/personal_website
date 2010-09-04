@@ -18,10 +18,6 @@ strong {
   color:#333333;
   font-weight:bold;
 }
-img {
-  float:left
-  padding: 40px;
-}
 #hello{
   color:#666666;
   font-weight:bold;
@@ -29,23 +25,26 @@ img {
 }
 .noBullet{
   list-style-type: none;
-  padding-left: 10px;
+  padding-left:10px;
 }
-#primaryContent a:link, a:visited {
+a:link, a:visited{
   color:#444444;
   padding:0 2px;
 }
-#primaryContent a:hover {
+a:hover{
   background-color:#FFF000;
   color:#000000;
   text-decoration:none;
 }
-#primaryContent {
+#primaryContent{
   float:left;
   width:50%;
 }
-#secondaryContent {
+#secondaryContent{
   float:left;
   width:50%;
 }
-
+#links{
+  padding-left:10px;
+  margin-top:-10px;
+}
