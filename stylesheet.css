@@ -1,11 +1,5 @@
-* {
-  border:0 none;
-  margin:0;
-  padding:0;
-}
-html {
-  height:100%;
-}
+* {border:0 none; margin:0; padding:0;}
+html {height:100%;}
 body {
   background:none repeat scroll 0 0 #FFFFFF;
   border-top:5px solid #333333;
@@ -14,37 +8,11 @@ body {
   padding:13px 80px;
   font-weight:lighter;
 }
-strong {
-  color:#333333;
-  font-weight:bold;
-}
-#hello{
-  color:#666666;
-  font-weight:bold;
-  margin-bottom:-10px;
-}
-.noBullet{
-  list-style-type: none;
-  padding-left:10px;
-}
-a:link, a:visited{
-  color:#444444;
-  padding:0 2px;
-}
-a:hover{
-  background-color:#FFF000;
-  color:#000000;
-  text-decoration:none;
-}
-#primaryContent{
-  float:left;
-  width:50%;
-}
-#secondaryContent{
-  float:left;
-  width:50%;
-}
-#links{
-  padding-left:10px;
-  margin-top:-10px;
-}
+strong {color:#333333; font-weight:bold;}
+#hello{color:#666666; font-weight:bold; margin-bottom:-10px;}
+.noBullet{list-style-type: none; padding-left:10px;}
+a:link, a:visited{color:#444444; padding:0 2px;}
+a:hover{background-color:#FFF000; color:#000000; text-decoration:none;}
+#primaryContent{float:left; width:50%;}
+#secondaryContent{float:left; width:50%;}
+#links{padding-left:10px; margin-top:-10px;}
