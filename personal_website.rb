@@ -2,6 +2,8 @@ require 'rubygems'
 require 'sinatra'
 require 'haml'
 
+enable :inline_templates
+
 get '/stylesheet.css' do
   content_type 'text/css'
   File.read 'stylesheet.css'

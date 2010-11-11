@@ -10,5 +10,5 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  haml
+  haml (= 3.0.23)
   sinatra (= 1.0)
