@@ -46,21 +46,21 @@ __END__
   Santo André - SP - Brasil
   %br
   %strong Trabalho
-  %a{:href => "http://www.voicetechnology.com.br"}Voice Technology
+  %a{:href => "http://www.vizir.com.br"}Vizir
   %br
   %strong Gosto
-  %ul{:class => "noBullet"}
-    %li -- Testar software
-    %ul{:class => "noBullet"}
-      %li --- Investigação
-      %li --- Exploração
-      %li --- Imaginar
   %ul{:class => "noBullet"}
     %li -- Desenvolver software
     %ul{:class => "noBullet"}
       %li --- Rails
       %li --- Criar
       %li --- Solucionar
+  %ul{:class => "noBullet"}
+    %li -- Testar software
+    %ul{:class => "noBullet"}
+      %li --- Investigação
+      %li --- Exploração
+      %li --- Imaginar
   %ul{:class => "noBullet"}
     %li -- Ajudar as pessoas
     %ul{:class => "noBullet"}
