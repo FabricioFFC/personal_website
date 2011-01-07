@@ -46,7 +46,8 @@ __END__
   Santo André - SP - Brasil
   %br
   %strong Trabalho
-  %a{:href => "http://www.vizir.com.br"}Vizir
+  %a{:href => "http://www.vizir.com.br", :target=>"blank", :title =>  "Trabalho"}
+    Vizir
   %br
   %strong Gosto
   %ul{:class => "noBullet"}
