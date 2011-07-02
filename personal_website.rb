@@ -21,7 +21,8 @@ __END__
   %head
     %meta(charset='utf-8')
     %title Sobre | Fabrício
-    :javascript
+    <meta name="google-site-verification" content="7kJTd6ZcPUGChUgZLHnr_UUurgnrKn_jzkGZJ-PPadk" /> 
+   :javascript
       var _gaq = _gaq || [];
       _gaq.push(['_setAccount', 'UA-5295321-5']);
       _gaq.push(['_trackPageview']);
