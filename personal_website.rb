@@ -19,9 +19,8 @@ __END__
 !!!
 %html(lang='pt-BR')
   %head
-    %meta(charset='utf-8')
+    %meta(charset='utf-8'name="google-site-verification" content="7kJTd6ZcPUGChUgZLHnr_UUurgnrKn_jzkGZJ-PPadk")
     %title Sobre | Fabrício
-    <meta name="google-site-verification" content="7kJTd6ZcPUGChUgZLHnr_UUurgnrKn_jzkGZJ-PPadk" /> 
    :javascript
       var _gaq = _gaq || [];
       _gaq.push(['_setAccount', 'UA-5295321-5']);
