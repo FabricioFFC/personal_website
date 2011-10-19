@@ -46,8 +46,8 @@ __END__
     Santo André - SP - Brasil
     %br
     %strong Trabalho
-    %a{:href => "http://f1studio.com.br", :target=>"blank", :title =>  "Trabalho"}
-      F1 Studio
+    %a{:href => "http://vizir.com.br", :target=>"blank", :title =>  "Trabalho"}
+      Vizir
 #secondaryContent
   .box
     %strong +
